@@ -1,3 +1,4 @@
 Hello, git!
 New line
 Second line
+Hello, git!
