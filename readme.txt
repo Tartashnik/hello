@@ -1,2 +1,2 @@
 New line
-Second Line
+Second LineHello, git!
